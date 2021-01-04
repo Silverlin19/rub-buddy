@@ -12,3 +12,5 @@ https://silverlin19.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Sam Ramos
+
+### ©️2019 Run Buddy, Inc 
